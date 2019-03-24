@@ -5,3 +5,5 @@
 1. Если используется GIT - git https://github.com/pavelkocharin/Webpack-Tiger-Bootstrap.git, либо скачать архив (кнопка "clone or download")
 2. В командной строке (терминале) в скачанной папке проекта набрать npm install (или просто npm i), подождать окончания установки модулей.
 3. Далее набрать npm run dev (порт 8081 должен быть свободен) - автомматически откроется новая страница браузера с скомпилированной index.html страницей проекта. 
+
+Также, страницу можно просмотреть на gitpages по адресу https://pavelkocharin.github.io/TigerBootstrap/
